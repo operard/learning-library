@@ -1,0 +1,32 @@
+{
+  "workshoptitle": "Learn Analytics and Machine Learning with this Red Bull Racing workshop",
+  "help": "livelabs-help-analytics_us@oracle.com”",
+  "tutorials": [
+    {
+      "title": "Introduction",
+      "description": "What makes a GREAT Grand Prix? And how can we make it even better? In this workshop you'll learn how to use Analytics and Machine Learning to answer these questions!",
+      "filename": "../../intro/intro.md"
+    },
+    {
+      "title": "Lab 1: Load Data",
+      "filename": "../../prepare-schema/prepare-schema.md"
+    },
+    {
+      "title": "Lab 2: Basic Data Exploration",
+      "filename": "../../analytics-basic-data-exploration/analytics-basic-data-exploration.md"
+    },
+    {
+      "title": "Lab 3: Bonus: Advanced Data Exploration",
+      "filename": "../../analytics-advanced-data-exploration/analytics-advanced-data-exploration.md"
+    },
+    {
+      "title": "Lab 4: Features Engineering, ML Training and Evaluation",
+      "filename": "../../ml-feature-generation-train-predict-evaluate/ml-feature-generation-train-predict-evaluate.md"
+    },
+    {
+      "title": "Need Help?",
+      "description": "Solutions to Common Problems and Directions for Receiving Live Help",
+      "filename":"https://raw.githubusercontent.com/oracle/learning-library/master/common/labs/need-help/need-help-freetier.md"
+    }
+  ]
+}

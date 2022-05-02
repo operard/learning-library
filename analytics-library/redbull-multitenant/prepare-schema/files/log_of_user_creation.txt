@@ -1,0 +1,2398 @@
+User WORKSHOP1 created.
+
+Elapsed: 00:00:00.203
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP1 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.033
+
+
+Table WORKSHOP1.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP1.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP1.SAFETY_CAR created.
+
+Elapsed: 00:00:00.015
+
+
+Table WORKSHOP1.PIT_STOPS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP1.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP1.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP2 created.
+
+Elapsed: 00:00:00.193
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP2 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.049
+
+
+Table WORKSHOP2.RACES created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP2.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP2.SAFETY_CAR created.
+
+Elapsed: 00:00:00.043
+
+
+Table WORKSHOP2.PIT_STOPS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP2.RESULTS created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP2.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP3 created.
+
+Elapsed: 00:00:00.194
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP3 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.029
+
+
+Table WORKSHOP3.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP3.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP3.SAFETY_CAR created.
+
+Elapsed: 00:00:00.008
+
+
+Table WORKSHOP3.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP3.RESULTS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP3.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP4 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP4 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.029
+
+
+Table WORKSHOP4.RACES created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP4.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP4.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP4.PIT_STOPS created.
+
+Elapsed: 00:00:00.026
+
+
+Table WORKSHOP4.RESULTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP4.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP5 created.
+
+Elapsed: 00:00:00.191
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP5 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.029
+
+
+Table WORKSHOP5.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP5.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP5.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP5.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP5.RESULTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP5.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.015
+
+
+User WORKSHOP6 created.
+
+Elapsed: 00:00:00.192
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP6 altered.
+
+Elapsed: 00:00:00.007
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.029
+
+
+Table WORKSHOP6.RACES created.
+
+Elapsed: 00:00:00.017
+
+
+Table WORKSHOP6.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP6.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP6.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP6.RESULTS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP6.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP7 created.
+
+Elapsed: 00:00:00.189
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP7 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.029
+
+
+Table WORKSHOP7.RACES created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP7.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP7.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP7.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP7.RESULTS created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP7.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP8 created.
+
+Elapsed: 00:00:00.195
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP8 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.028
+
+
+Table WORKSHOP8.RACES created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP8.LAP_TIMES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP8.SAFETY_CAR created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP8.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP8.RESULTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP8.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP9 created.
+
+Elapsed: 00:00:00.195
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.014
+
+
+User WORKSHOP9 altered.
+
+Elapsed: 00:00:00.013
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP9.RACES created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP9.LAP_TIMES created.
+
+Elapsed: 00:00:00.020
+
+
+Table WORKSHOP9.SAFETY_CAR created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP9.PIT_STOPS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP9.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP9.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.035
+
+
+User WORKSHOP10 created.
+
+Elapsed: 00:00:00.202
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.009
+
+
+User WORKSHOP10 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP10.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP10.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP10.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP10.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP10.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP10.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.013
+
+
+User WORKSHOP11 created.
+
+Elapsed: 00:00:00.196
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP11 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.029
+
+
+Table WORKSHOP11.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP11.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP11.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP11.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP11.RESULTS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP11.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.014
+
+
+User WORKSHOP12 created.
+
+Elapsed: 00:00:00.192
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP12 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP12.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP12.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP12.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP12.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP12.RESULTS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP12.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP13 created.
+
+Elapsed: 00:00:00.208
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP13 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP13.RACES created.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP13.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP13.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP13.PIT_STOPS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP13.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP13.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.015
+
+
+User WORKSHOP14 created.
+
+Elapsed: 00:00:00.191
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP14 altered.
+
+Elapsed: 00:00:00.007
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.028
+
+
+Table WORKSHOP14.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP14.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP14.SAFETY_CAR created.
+
+Elapsed: 00:00:00.008
+
+
+Table WORKSHOP14.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP14.RESULTS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP14.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP15 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.009
+
+
+User WORKSHOP15 altered.
+
+Elapsed: 00:00:00.007
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.007
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP15.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP15.LAP_TIMES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP15.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP15.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP15.RESULTS created.
+
+Elapsed: 00:00:00.015
+
+
+Table WORKSHOP15.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP16 created.
+
+Elapsed: 00:00:00.189
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP16 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP16.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP16.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP16.SAFETY_CAR created.
+
+Elapsed: 00:00:00.024
+
+
+Table WORKSHOP16.PIT_STOPS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP16.RESULTS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP16.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP17 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.013
+
+
+User WORKSHOP17 altered.
+
+Elapsed: 00:00:00.010
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP17.RACES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP17.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP17.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP17.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP17.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP17.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.013
+
+
+User WORKSHOP18 created.
+
+Elapsed: 00:00:00.196
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP18 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP18.RACES created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP18.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP18.SAFETY_CAR created.
+
+Elapsed: 00:00:00.028
+
+
+Table WORKSHOP18.PIT_STOPS created.
+
+Elapsed: 00:00:00.015
+
+
+Table WORKSHOP18.RESULTS created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP18.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP19 created.
+
+Elapsed: 00:00:00.192
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP19 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.019
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP19.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP19.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP19.SAFETY_CAR created.
+
+Elapsed: 00:00:00.008
+
+
+Table WORKSHOP19.PIT_STOPS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP19.RESULTS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP19.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP20 created.
+
+Elapsed: 00:00:00.191
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP20 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP20.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP20.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP20.SAFETY_CAR created.
+
+Elapsed: 00:00:00.008
+
+
+Table WORKSHOP20.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP20.RESULTS created.
+
+Elapsed: 00:00:00.015
+
+
+Table WORKSHOP20.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP21 created.
+
+Elapsed: 00:00:00.194
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP21 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.032
+
+
+Table WORKSHOP21.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP21.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP21.SAFETY_CAR created.
+
+Elapsed: 00:00:00.008
+
+
+Table WORKSHOP21.PIT_STOPS created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP21.RESULTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP21.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP22 created.
+
+Elapsed: 00:00:00.192
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP22 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.033
+
+
+Table WORKSHOP22.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP22.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP22.SAFETY_CAR created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP22.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP22.RESULTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP22.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP23 created.
+
+Elapsed: 00:00:00.191
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP23 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP23.RACES created.
+
+Elapsed: 00:00:00.025
+
+
+Table WORKSHOP23.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP23.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP23.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP23.RESULTS created.
+
+Elapsed: 00:00:00.019
+
+
+Table WORKSHOP23.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.013
+
+
+User WORKSHOP24 created.
+
+Elapsed: 00:00:00.193
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP24 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.032
+
+
+Table WORKSHOP24.RACES created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP24.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP24.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP24.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP24.RESULTS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP24.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.017
+
+
+User WORKSHOP25 created.
+
+Elapsed: 00:00:00.196
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP25 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP25.RACES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP25.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP25.SAFETY_CAR created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP25.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP25.RESULTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP25.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP26 created.
+
+Elapsed: 00:00:00.193
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP26 altered.
+
+Elapsed: 00:00:00.011
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP26.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP26.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP26.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP26.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP26.RESULTS created.
+
+Elapsed: 00:00:00.019
+
+
+Table WORKSHOP26.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.015
+
+
+User WORKSHOP27 created.
+
+Elapsed: 00:00:00.189
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP27 altered.
+
+Elapsed: 00:00:00.011
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP27.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP27.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP27.SAFETY_CAR created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP27.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP27.RESULTS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP27.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.024
+
+
+User WORKSHOP28 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP28 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP28.RACES created.
+
+Elapsed: 00:00:00.020
+
+
+Table WORKSHOP28.LAP_TIMES created.
+
+Elapsed: 00:00:00.015
+
+
+Table WORKSHOP28.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP28.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP28.RESULTS created.
+
+Elapsed: 00:00:00.016
+
+
+Table WORKSHOP28.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP29 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP29 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP29.RACES created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP29.LAP_TIMES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP29.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP29.PIT_STOPS created.
+
+Elapsed: 00:00:00.008
+
+
+Table WORKSHOP29.RESULTS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP29.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.013
+
+
+User WORKSHOP30 created.
+
+Elapsed: 00:00:00.199
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP30 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.033
+
+
+Table WORKSHOP30.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP30.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP30.SAFETY_CAR created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP30.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP30.RESULTS created.
+
+Elapsed: 00:00:00.027
+
+
+Table WORKSHOP30.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP31 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP31 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP31.RACES created.
+
+Elapsed: 00:00:00.027
+
+
+Table WORKSHOP31.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP31.SAFETY_CAR created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP31.PIT_STOPS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP31.RESULTS created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP31.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.013
+
+
+User WORKSHOP32 created.
+
+Elapsed: 00:00:00.189
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP32 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP32.RACES created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP32.LAP_TIMES created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP32.SAFETY_CAR created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP32.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP32.RESULTS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP32.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP33 created.
+
+Elapsed: 00:00:00.189
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP33 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP33.RACES created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP33.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP33.SAFETY_CAR created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP33.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP33.RESULTS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP33.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP34 created.
+
+Elapsed: 00:00:00.187
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.009
+
+
+User WORKSHOP34 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP34.RACES created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP34.LAP_TIMES created.
+
+Elapsed: 00:00:00.023
+
+
+Table WORKSHOP34.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP34.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP34.RESULTS created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP34.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.013
+
+
+User WORKSHOP35 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP35 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP35.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP35.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP35.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP35.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP35.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP35.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP36 created.
+
+Elapsed: 00:00:00.190
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP36 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.004
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP36.RACES created.
+
+Elapsed: 00:00:00.016
+
+
+Table WORKSHOP36.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP36.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP36.PIT_STOPS created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP36.RESULTS created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP36.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.014
+
+
+User WORKSHOP37 created.
+
+Elapsed: 00:00:00.193
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP37 altered.
+
+Elapsed: 00:00:00.010
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.030
+
+
+Table WORKSHOP37.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP37.LAP_TIMES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP37.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP37.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP37.RESULTS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP37.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.012
+
+
+User WORKSHOP38 created.
+
+Elapsed: 00:00:00.192
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.011
+
+
+User WORKSHOP38 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.006
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP38.RACES created.
+
+Elapsed: 00:00:00.011
+
+
+Table WORKSHOP38.LAP_TIMES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP38.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP38.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP38.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP38.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP39 created.
+
+Elapsed: 00:00:00.192
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP39 altered.
+
+Elapsed: 00:00:00.009
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.029
+
+
+Table WORKSHOP39.RACES created.
+
+Elapsed: 00:00:00.013
+
+
+Table WORKSHOP39.LAP_TIMES created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP39.SAFETY_CAR created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP39.PIT_STOPS created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP39.RESULTS created.
+
+Elapsed: 00:00:00.012
+
+
+Table WORKSHOP39.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.016
+
+
+User WORKSHOP40 created.
+
+Elapsed: 00:00:00.193
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.010
+
+
+User WORKSHOP40 altered.
+
+Elapsed: 00:00:00.008
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+Grant succeeded.
+
+Elapsed: 00:00:00.005
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.031
+
+
+Table WORKSHOP40.RACES created.
+
+Elapsed: 00:00:00.014
+
+
+Table WORKSHOP40.LAP_TIMES created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP40.SAFETY_CAR created.
+
+Elapsed: 00:00:00.010
+
+
+Table WORKSHOP40.PIT_STOPS created.
+
+Elapsed: 00:00:00.009
+
+
+Table WORKSHOP40.RESULTS created.
+
+Elapsed: 00:00:00.016
+
+
+Table WORKSHOP40.DRIVER_STANDINGS created.
+
+Elapsed: 00:00:00.011
