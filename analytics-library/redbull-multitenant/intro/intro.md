@@ -14,7 +14,7 @@ This question is so interesting, because if we can understand exactly what facto
 
 This is a great opportunity for you to learn about Analytics and Machine Learning. You'll use these to discover the answer to our main question. No experience required, you will learn everything you need to know along the way!
 
-Estimated Workshop Time: 120 minutes
+Estimated Workshop Time: 180 minutes
 
 ### Objectives
 In this workshop, you will:
