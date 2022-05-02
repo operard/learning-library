@@ -76,7 +76,7 @@ We will run these SQL statements in a Notebook. A notebook is not just a conveni
 
 2. Open the following URL.
 
-   https://gc3dd18cc561e12-redbull.adb.us-phoenix-1.oraclecloudapps.com/oml/index.html
+   https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/oml/index.html
 
    Login with the username and password provided by your workshop instructor.
 
