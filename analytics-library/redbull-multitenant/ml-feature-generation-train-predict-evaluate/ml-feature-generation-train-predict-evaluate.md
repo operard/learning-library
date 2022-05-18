@@ -76,7 +76,9 @@ We will run these SQL statements in a Notebook. A notebook is not just a conveni
 
 2. Open the following URL.
 
-   https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/oml/index.html
+   <!-- https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/oml/index.html -->
+
+   https://gbd4029b3e40123-vidadb.adb.eu-frankfurt-1.oraclecloudapps.com/oml/index.html
 
    Login with the username and password provided by your workshop instructor.
 
@@ -472,4 +474,4 @@ What this tells us is that these factors are indeed important for the experience
 Congratulations on completing the workshop! Now you've learned the basics of machine learning, hopefully you are inspired to apply it to many more challenges!
 
 ## **Acknowledgements**
-- **Author** - Jeroen Kloosterman, Technology Product Strategy Director
+- **Author** - Olivier Perard, Technology Software Director

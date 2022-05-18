@@ -48,7 +48,9 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
 
 2. **Open** the Cloud Analytics **URL** 
 
-   https://redbullanalyticsoac-axytmnxp84kg-px.analytics.ocp.oraclecloud.com/ui/
+   <!-- https://redbullanalyticsoac-axytmnxp84kg-px.analytics.ocp.oraclecloud.com/ui/ -->
+
+   https://vidaoac-yzxqnapd08tp-fr.analytics.ocp.oraclecloud.com/ui/
 
 3. On the top right-hand side of the screen, click **Create**, and then **Connection**.
 

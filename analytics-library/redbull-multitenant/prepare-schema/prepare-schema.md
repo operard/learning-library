@@ -18,11 +18,15 @@ To complete this lab, you need to have the following:
 
 1. Open the following URL, **replace the "workshop" part of the URL with the workshop user as given to you by your instructor (lowercase)**
 
-   https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/ords/workshop/_sdw/
+   <!-- https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/ords/workshop/_sdw/ -->
+
+   https://gbd4029b3e40123-vidadb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/workshopxx/_sdw/
 
    e.g., if you have been given workshop12 as your user, then the URL will be:
 
-   https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/ords/workshop12/_sdw/
+   <!-- https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/ords/workshop12/_sdw/ -->
+
+   https://gbd4029b3e40123-vidadb.adb.eu-frankfurt-1.oraclecloudapps.com/ords/workshop12/_sdw/
 
    Login with the username and password provided by your workshop instructor.
 
