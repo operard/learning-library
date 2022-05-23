@@ -44,7 +44,8 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
 
    Make sure the file is saved with extension ZIP. 
 
-    <a href="files/Wallet_REDBULLDB_low.zip" target="\_blank">`Wallet_REDBULLDB_low.zip`</a>
+    <a href="https://github.com/operard/learning-library/blob/ghpages/analytics-library/redbull-multitenant/analytics-basic-data-exploration/files/Wallet_REDBULLDB_low.zip" target="\_blank">`Wallet_REDBULLDB_low.zip`</a>
+
 
 2. **Open** the Cloud Analytics **URL** 
 
