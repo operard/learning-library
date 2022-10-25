@@ -78,7 +78,7 @@ We will run these SQL statements in a Notebook. A notebook is not just a conveni
 
    <!-- https://gc3dd18cc561e12-redbulldb.adb.us-phoenix-1.oraclecloudapps.com/oml/index.html -->
 
-   https://gbd4029b3e40123-vidadb.adb.eu-frankfurt-1.oraclecloudapps.com/oml/index.html
+   https://g8088c092b36d1e-redbulladb.adb.eu-madrid-1.oraclecloudapps.com/oml/index.html
 
    Login with the username and password provided by your workshop instructor.
 
@@ -262,7 +262,7 @@ Now we're ready to train the ML model.
 
 1. In case you don't have a window with Oracle Analytics Cloud open, you can open it as follows:
 
-   https://redbullanalytics-axytmnxp84kg-px.analytics.ocp.oraclecloud.com/ui/
+   https://redbullanalyticsoac-axstveg0xhdk.analytics.eu-madrid-1.ocp.oraclecloud.com/ui/
 
    Use the username and password as given to you by the workshop instructor.
 
