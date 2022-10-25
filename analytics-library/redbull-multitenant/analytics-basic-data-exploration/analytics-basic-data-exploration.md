@@ -88,7 +88,7 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
 
    ![Select REDBULL connection](images/select-redbull-database.png)
 
-3. Open the `F1` schema and **double click** on the `RACES` table.
+3. Open the `WORKSHOPX` schema and **double click** on the `RACES` table.
 
    ![Add dataset](images/click-races.png)
 
@@ -164,7 +164,7 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
 
   ![Select REDBULL connection](images/select-redbull-database.png)
 
-3. Open the `F1` schema and **double click** on the `LAP_TIMES` table.
+3. Open the `WORKSHOP[X]` schema and **double click** on the `LAP_TIMES` table.
 
   ![Add dataset](images/add-lap-times.png)
 
