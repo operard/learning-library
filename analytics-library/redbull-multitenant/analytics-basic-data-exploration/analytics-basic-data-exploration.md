@@ -44,11 +44,14 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
 
    Make sure the file is saved with extension ZIP. 
 
-    <a href="files/Wallet_REDBULLDB_low.zip" target="\_blank">`Wallet_REDBULLDB_low.zip`</a>
+    <a href="https://github.com/operard/learning-library/raw/ghpages/analytics-library/redbull-multitenant/analytics-basic-data-exploration/files/Wallet_RedbullADB.zip" target="\_blank">`Wallet_RedbullADB.zip`</a>
+
 
 2. **Open** the Cloud Analytics **URL** 
 
-   https://redbullanalyticsoac-axytmnxp84kg-px.analytics.ocp.oraclecloud.com/ui/
+   <!-- https://redbullanalyticsoac-axytmnxp84kg-px.analytics.ocp.oraclecloud.com/ui/ -->
+
+   https://redbullanalyticsoac-axstveg0xhdk.analytics.eu-madrid-1.ocp.oraclecloud.com/ui/
 
 3. On the top right-hand side of the screen, click **Create**, and then **Connection**.
 
@@ -68,7 +71,7 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
     >
     > **Password**: **Use the password given to you by your workshop instructor.**
     >
-    > **Service Name**: Keep the default
+    > **Service Name**: Select <LOW> Service
     >
 
     ![Connection Creation](images/oac-adw-connection-details-f1.png)
@@ -85,7 +88,7 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
 
    ![Select REDBULL connection](images/select-redbull-database.png)
 
-3. Open the `F1` schema and **double click** on the `RACES` table.
+3. Open the `WORKSHOPX` schema and **double click** on the `RACES` table.
 
    ![Add dataset](images/click-races.png)
 
@@ -161,7 +164,7 @@ Therefore we need to create a connection from Oracle Analytics Cloud to Autonomo
 
   ![Select REDBULL connection](images/select-redbull-database.png)
 
-3. Open the `F1` schema and **double click** on the `LAP_TIMES` table.
+3. Open the `WORKSHOP[X]` schema and **double click** on the `LAP_TIMES` table.
 
   ![Add dataset](images/add-lap-times.png)
 
